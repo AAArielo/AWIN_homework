@@ -1,9 +1,13 @@
-1.
-	註冊畫面
+AWIN_homework http://aaarielo.azurewebsites.net/Home/Contact
+
+1. 
+	註冊畫面 http://aaarielo.azurewebsites.net/Account/Register
  
-	登入畫面
+	登入畫面 http://aaarielo.azurewebsites.net/Account/Login
  
 	設定密碼規則必須包含數字英文及特殊字元 (8-20字元)
+
+http://aaarielo.azurewebsites.net/Account/UserList
  
 	Admin身分Ariel 可以看到自己及所有user、guest資料，且允許刪除資料
  
@@ -17,14 +21,12 @@
 如果是guest身分，不另外撈其他使用者資料
   
 2.
-	參考reCAPTCHA API 完成防止暴力測試
+	參考reCAPTCHA API 完成防止暴力測試 
 https://code.msdn.microsoft.com/Google-reCAPTCHA-in-ASPNET-f854c476
 https://www.google.com/recaptcha/admin/site/346379033/setup
- 
-網站金鑰 6LcZU6UUAAAAAK6kyVRyJvQ9r0dj8TO9i0lJ0H_j
-密鑰 6LcZU6UUAAAAACkzz-SEknasnPz60qSI1HR7WEiA _
 
 3.
+http://aaarielo.azurewebsites.net/Estate
 	每頁顯示20筆高雄房地產資料，可根據地區做關鍵字搜尋
 	點選房地產資料項目，新增單位售價至分析圖表
  
@@ -44,8 +46,6 @@ Controller控制端，處理使用者輸入，資料傳遞為主
  
 	列表畫面使用NuGet線上套件輔助
  
-
- 
  
 	使用的資料庫有AspNetRoles、AspNetUserRoles、AspNetUsers、Estate
 以下畫面為Estate房地產資料
@@ -53,8 +53,6 @@ Controller控制端，處理使用者輸入，資料傳遞為主
 
 可以由資料庫產生Entity，也可以先設定Entity再產生資料庫
 並且透過Entity FrameWork存取DB資料
-
- 
 
  
 5.
