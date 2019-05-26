@@ -27,7 +27,9 @@ https://www.google.com/recaptcha/admin/site/346379033/setup
 
 3.
 http://aaarielo.azurewebsites.net/Estate
+
 	每頁顯示20筆高雄房地產資料，可根據地區做關鍵字搜尋
+
 	點選房地產資料項目，新增單位售價至分析圖表
  
 
