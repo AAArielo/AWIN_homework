@@ -1,4 +1,4 @@
-# AWIN_homework 網站連結 http://aaarielo.azurewebsites.net/Home/Contact
+# AWIN_homework  http://aaarielo.azurewebsites.net/Home/Contact
 1.
 	註冊畫面
  
