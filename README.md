@@ -33,6 +33,8 @@ http://aaarielo.azurewebsites.net/Estate
 
 參考Google Charts – Line Chart
 https://developers.google.com/chart/interactive/docs/gallery/linechart
+
+
 4.
 	使用Visual Studio 2013開發
 	專案選擇MVC，會產生一個網站雛形，僅提供註冊及登入
